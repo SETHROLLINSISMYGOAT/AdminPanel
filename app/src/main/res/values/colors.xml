@@ -9,8 +9,12 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-
+    <color name="red">#FF0000</color>
     <color name="red_main">#DC2626</color>
+    <color name="status_delivered">#228B22</color>
+    <color name="status_in_transit">#007BFF</color>
+    <color name="status_preparing">#FFA500</color>
+
 
     <color name="green_delivered">#22C55E</color>
     <color name="blue_intransit">#3B82F6</color>

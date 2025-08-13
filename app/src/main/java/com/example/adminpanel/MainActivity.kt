@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
                 R.id.navigation_orders -> {
-                    val intent = Intent(this, HubActivity::class.java)
+                    val intent = Intent(this, OrdersActivity::class.java)
                     startActivity(intent)
                     true
                 }

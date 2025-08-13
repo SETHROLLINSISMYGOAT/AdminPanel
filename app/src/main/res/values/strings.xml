@@ -4,4 +4,30 @@
     <string name="release_payment_icon_description">Icon for releasing payments</string>
     <string name="fix_payment_icon_description">Icon for fixing payment issues</string>
     <string name="fab_description">Sync payments button</string>
+    <string name="app_name_delivery_hub">DeliveryHub</string>
+    <string name="menu_button_description">Menu</string>
+
+
+    <string name="today_s_orders">Today\'s Orders</string>
+    <string name="filter_icon_description">Filter</string>
+    <string name="order_status_indicator">Order Status Indicator</string>
+    <string name="details_arrow">Details Arrow</string>
+    <string name="add_new_order">Add New Order</string>
+
+    <string name="manual_payment">Manual Payment</string>
+    <string name="back_button_description">Back</string>
+    <string name="notification_icon_description">Notifications</string>
+    <string name="profile_icon_description">Profile</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="recipient_type">Recipient Type</string>
+    <string name="restaurant_owner">Restaurant Owner</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="enter_recipient_name">Enter recipient name</string>
+    <string name="amount_label">Amount ($)</string>
+    <string name="amount_hint">0.00</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="bank_transfer">Bank Transfer</string>
+    <string name="notes">Notes</string>
+    <string name="optional_payment_notes">Optional payment notes</string>
+    <string name="process_payment">Process Payment</string>
 </resources>

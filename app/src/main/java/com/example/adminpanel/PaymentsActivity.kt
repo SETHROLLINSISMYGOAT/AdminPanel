@@ -32,12 +32,13 @@ class PaymentsActivity : AppCompatActivity() {
         }
 
 
-        // You would do the same for manualPaymentCard and releasePaymentCard
-        // For example:
-        // val manualPaymentCard: CardView = findViewById(R.id.manualPaymentCard)
-        // manualPaymentCard.setOnClickListener {
-        //     val manualPaymentIntent = Intent(this, ManualPaymentActivity::class.java)
-        //     startActivity(manualPaymentIntent)
-        // }
+
+         val manualPaymentCard: CardView = findViewById(R.id.manualPaymentCard)
+         manualPaymentCard.setOnClickListener {
+
+             val manualPaymentIntent = Intent(this, ManualPaymentActivity::class.java)
+
+             startActivity(manualPaymentIntent)
+         }
     }
 }

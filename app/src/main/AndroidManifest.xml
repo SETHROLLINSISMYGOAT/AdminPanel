@@ -21,11 +21,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HubActivity"/>
+        <activity android:name=".OrdersActivity"/>
         <activity android:name=".PaymentsActivity"/>
         <activity android:name=".AnalyticsActivity"/>
         <activity android:name=".FixPaymentIssuesActivity"/>
         <activity android:name=".ReleaseActivity"/>
+        <activity android:name=".ManualPaymentActivity"/>
     </application>
 
 </manifest>
