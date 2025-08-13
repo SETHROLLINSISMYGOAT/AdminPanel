@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdminPanel</string>
+    <string name="manual_payment_icon_description">Icon for manual payment</string>
+    <string name="release_payment_icon_description">Icon for releasing payments</string>
+    <string name="fix_payment_icon_description">Icon for fixing payment issues</string>
+    <string name="fab_description">Sync payments button</string>
+</resources>
